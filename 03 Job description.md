@@ -9,8 +9,9 @@
 为业务部门整理数据需求，产出数据报表及其他数据报告
 ### 软件需求
 Power BI，Excel、PPT、python、sql
-axure、xmind、visio 
-数据仓库 & Hive
+axure、xmind、visio  
+数据仓库 & Hive   
+Linux  
 熟练掌握机器学习、深度学习基础理论和方法以及常用模型和算法框架，如GBDT/LR/SVM、Tensorflow、pytorch等
 
 ## English
