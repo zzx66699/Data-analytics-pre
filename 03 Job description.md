@@ -13,6 +13,7 @@ axure、xmind、visio
 数据仓库 & Hive   
 Linux  
 熟练掌握机器学习、深度学习基础理论和方法以及常用模型和算法框架，如GBDT/LR/SVM、Tensorflow、pytorch等
+熟悉常用机器学习算法、深度学习算法及其原理，至少对机器学习、自然语言处理、深度学习中的一个领域有深入理解，熟悉当前普及的机器学习、深度学习框架 ，如Scikit-Learn，Tensor Flow, Pytorth,等；
 
 ## English
 ## English
