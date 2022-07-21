@@ -1,4 +1,4 @@
-# Chappter1 Basic information of DA
+# Chapter1 Basic information of DA
 ## 数据分析3软件
 SQL -- data extraction; Tableau/PowerBI -- data visualization; Python -- analysis and automation.
 
