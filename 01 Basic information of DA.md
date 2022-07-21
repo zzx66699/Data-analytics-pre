@@ -29,9 +29,14 @@ AB实验你们是如何做的？如何评估？
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/105503216/180243192-d6110514-e6d8-49ef-bb1f-f2b1d62769e5.png">
 
 <img width="726" alt="image" src="https://user-images.githubusercontent.com/105503216/180241808-08686c29-fc41-458a-8ade-8def26090c34.png">   
-重点：流失前行为识别、流失用户的事后调研  
+重点：流失前行为识别、流失用户的事后调研   
+
+-------   
+
 <img width="713" alt="image" src="https://user-images.githubusercontent.com/105503216/180242675-f4f3ddc3-af4c-469e-a98c-9491d36d39db.png">  
 重点：采用含有量级的衡量指标去评判
+
+-------
 
 #### 如何避免
 <img width="722" alt="image" src="https://user-images.githubusercontent.com/105503216/180243824-b4c3723c-122f-4e42-b37a-5a4093284416.png">
